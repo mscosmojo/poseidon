@@ -3,7 +3,8 @@
 	"package": "com.mscosmojo.poseidon.mixin",
 	"compatibilityLevel": "JAVA_8",
 	"mixins": [
-		"ExampleMixin"
+		"ServerPlayNetworkHandlerMixin",
+		"TridentItemMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1

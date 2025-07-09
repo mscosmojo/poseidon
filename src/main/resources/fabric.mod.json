@@ -3,15 +3,15 @@
 	"id": "poseidon",
 	"version": "${version}",
 	"name": "poseidon",
-	"description": "This is an example description! Tell everyone what your mod is about!",
+	"description": "Minecraft mod which gives you an unbreakable riptide 3 trident",
 	"authors": [
-		"Me!"
+		"MsCosmoJo"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "https://github.com/mscosmojo/poseidon",
+		"sources": "https://github.com/mscosmojo/poseidon"
 	},
-	"license": "CC0-1.0",
+	"license": "GPL-3.0-or-later",
 	"icon": "assets/poseidon/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -25,10 +25,8 @@
 	"depends": {
 		"fabricloader": ">=0.16.14",
 		"minecraft": "~1.16.1",
-		"java": ">=8",
-		"fabric": "*"
+		"java": ">=8"
 	},
 	"suggests": {
-		"another-mod": "*"
 	}
 }
