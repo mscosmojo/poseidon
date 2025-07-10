@@ -8,4 +8,6 @@ Supports:
 
 Exactly how it sounds, you receive an unbreakable riptide trident. You can use it to fly anywhere, without water or rain, in all 3 dimensions.
 
+Download from the [releases](https://github.com/mscosmojo/poseidon/releases/latest) page.
+
 Licensed under GPLv3. See [LICENSE](./LICENSE) for details.
